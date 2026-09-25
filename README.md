@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=MYTHOLOGY&labelColor=%23A66A6A&countColor=%23E0C85A">
+  <div align="center">
   <img width="680" height="4" alt="Untitled90_20260924195525" src="https://github.com/user-attachments/assets/a14d45bd-38d3-4aa9-866e-4c68fa5c2bb7" />
-
-</div><img width="534" height="94" alt="Untitled102_20260924195438" src="https://github.com/user-attachments/assets/7c473fe8-1bd0-474a-bf6e-99cc801905b3" />
+    <div align="left">
+<img width="534" height="94" alt="Untitled102_20260924195438" src="https://github.com/user-attachments/assets/7c473fe8-1bd0-474a-bf6e-99cc801905b3" />
 <img width="300" height="300" alt="Untitled111_20260924174539" src="https://github.com/user-attachments/assets/5de29abf-da03-4982-aaa1-451b49c23582" />
 
 <div align="center">
@@ -16,7 +17,7 @@
     <td align="center">
       
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E7D7B9&center=true&multiline=true&repeat=false&width=435&height=100&lines=git+specifically+for+my+mk+%2B+lin+lie+ponies+;strawpages+%2B+guns+the+same+till+I+make;new+ones+that+are+mk+%2B+lin+lie+themed+;mk+is+literally+my+bf+lol+;I%E2%80%99m+mks+and+lin+lies+biggest+fan+ok%3F+ok)](https://git.io/typing-svg)
-    </td>
+</td>
   </tr>
 </table>
 
@@ -26,6 +27,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=100&lines=put+your+hand+in+the+monkey+cage%E2%80%94;expect+to+get+bit%2C+son!)](https://git.io/typing-svg)
 
 <img width="2048" height="2048" alt="Untitled111_20260924185238" src="https://github.com/user-attachments/assets/fb8e1c08-8ba0-4503-9e85-03d81b20495f" />
+
+<table>
+  <tr>
+    <td align="center">
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1&color=F0DBBF&center=true&multiline=true&repeat=false&width=435&height=65&lines=I+have+every+mk+outfit+%2F+version+as+a+skin+;I+have+every+lin+lie+outfit+%2B+%28marvel+rivals%29+as+a+skin;mainly+mk+cuz+I+love+mk+sm+I+love+mkkkk+)](https://git.io/typing-svg)
+</td>
+  </tr>
+</table>
+
 <img width="680" height="4" alt="Untitled90_20260924195525" src="https://github.com/user-attachments/assets/e9edeb19-df2c-49a2-aea6-dbf530113b2a" />
 <img width="733" height="240" alt="Untitled100_20260924195414" src="https://github.com/user-attachments/assets/01565ec9-097c-4d07-b54e-0b1f546794db" />
 <img width="680" height="4" alt="Untitled90_20260924195525" src="https://github.com/user-attachments/assets/c72198df-c76c-45c1-b8c2-417d27ca6528" />
