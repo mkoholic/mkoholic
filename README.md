@@ -9,6 +9,18 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=200&lines=It's+okay%2C+I+get+it.;It's+scary+being+alone%2C+;but+you're+not+alone+now.+;You've+got+me.+We'll+find+a+way+out+together.;I+promise.)](https://git.io/typing-svg)
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E7D7B9&center=true&multiline=true&repeat=false&width=435&height=100&lines=git+specifically+for+my+mk+%2B+lin+lie+ponies+;strawpages+%2B+guns+the+same+till+I+make;new+ones+that+are+mk+%2B+lin+lie+themed+;mk+is+literally+my+bf+lol+;I%E2%80%99m+mks+and+lin+lies+biggest+fan+ok%3F+ok)](https://git.io/typing-svg)
+    </td>
+  </tr>
+</table>
+
+</div>
 <img width="1377" height="1868" alt="Untitled111_20260924201346" src="https://github.com/user-attachments/assets/a38601c1-e31e-4428-967b-3d3a294c3867" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=100&lines=put+your+hand+in+the+monkey+cage%E2%80%94;expect+to+get+bit%2C+son!)](https://git.io/typing-svg)
