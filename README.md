@@ -16,6 +16,15 @@
   <tr>
     <td align="center">
       
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1&color=F0DBBF&center=true&multiline=true&repeat=false&width=435&height=45&lines=DO+NOT+TAKE+INSPIRATION%2FCOPY+MY+PONY+DESIGNS;SERIOUSLY+DONT!!!+THANKS+%5E_%5E)](https://git.io/typing-svg)
+</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E7D7B9&center=true&multiline=true&repeat=false&width=435&height=100&lines=git+specifically+for+my+mk+%2B+lin+lie+ponies+;strawpages+%2B+guns+the+same+till+I+make;new+ones+that+are+mk+%2B+lin+lie+themed+;mk+is+literally+my+bf+lol+;I%E2%80%99m+mks+and+lin+lies+biggest+fan+ok%3F+ok)](https://git.io/typing-svg)
 </td>
   </tr>
