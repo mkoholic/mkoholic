@@ -21,6 +21,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=250&lines=The+sacred+Sword+of+Fu+Xi+chose+me.+;And+so+did+Shou-Lao+the+Undying.;But+it+doesn't+matter+who+I+am..;Sword+Master+or+Iron+Fist.+;I'M+STILL+GOING+TO+KICK+YOUR+ASS!)](https://git.io/typing-svg)
 
 <img width="2048" height="2048" alt="Untitled111_20260924174310" src="https://github.com/user-attachments/assets/68a5c9f9-9dc0-4757-9609-f6be55596452" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=250&lines=But+in+this+moment%2C+I+realize+my+mistake%E2%80%94;and+I+feel+them+shift+into+alignment.+;I+don't+have+to+choose+between+;these+two+identities.+;I'm+both.)](https://git.io/typing-svg)
+
 <img width="2048" height="1884" alt="Untitled111_20260924185509" src="https://github.com/user-attachments/assets/5741b4ac-be98-4db1-b9a8-e5f01cb524e8" />
 <img width="680" height="4" alt="Untitled90_20260924195525" src="https://github.com/user-attachments/assets/4a5beea9-c53a-47cd-96d8-39c9a24a7ff7" />
 
