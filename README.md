@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=MYTHOLOGY&labelColor=%23A66A6A&countColor=%23E0C85A">
+  
   <div align="center">
+    
   <img width="680" height="4" alt="Untitled90_20260924195525" src="https://github.com/user-attachments/assets/a14d45bd-38d3-4aa9-866e-4c68fa5c2bb7" />
     <div align="left">
 <img width="534" height="94" alt="Untitled102_20260924195438" src="https://github.com/user-attachments/assets/7c473fe8-1bd0-474a-bf6e-99cc801905b3" />
@@ -10,23 +12,16 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=200&lines=It's+okay%2C+I+get+it.;It's+scary+being+alone%2C+;but+you're+not+alone+now.+;You've+got+me.+We'll+find+a+way+out+together.;I+promise.)](https://git.io/typing-svg)
 
+[guns](https://guns.lol/mkoholic)  ,     [strawpage](https://mkoholic.straw.page)   ,      [ata](https://mkoholic.atabook.org)  ,      [prns](https://en.pronouns.page/@mkoholic)
+
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
       
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1&color=F0DBBF&center=true&multiline=true&repeat=false&width=435&height=45&lines=DO+NOT+TAKE+INSPIRATION%2FCOPY+MY+PONY+DESIGNS;SERIOUSLY+DONT!!!+THANKS+%5E_%5E)](https://git.io/typing-svg)
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E7D7B9&center=true&multiline=true&repeat=false&width=435&height=100&lines=git+specifically+for+my+mk+%2B+lin+lie+ponies+;strawpages+%2B+guns+the+same+till+I+make;new+ones+that+are+mk+%2B+lin+lie+themed+;mk+is+literally+my+bf+lol+;I%E2%80%99m+mks+and+lin+lies+biggest+fan+ok%3F+ok)](https://git.io/typing-svg)
-</td>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E7D7B9&center=true&multiline=true&repeat=false&width=435&height=75&lines=github+specifically+for+my+mk+%2B+lin+lie+ponies+;c%2Bh+freely!!+don%E2%80%99t+be+shy+to+int%2C+bmf!!+(%3E%E1%B4%97%E2%80%A2)+!;mk+is+literally+my+bf+lol;super+duper+huge+mk+fan+%2C+big+lin+lie+fan)](https://git.io/typing-svg)
+    </td>
   </tr>
 </table>
 
