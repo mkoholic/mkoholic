@@ -24,7 +24,7 @@
     
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=E3CFAB&center=true&multiline=true&repeat=false&width=435&lines=MK+%2F+Qi+Xiaotian+of+Ponytown)](https://git.io/typing-svg)
 
-[paw-town](https://github.com/paw-town)
+[paw-town](https://github.com/paw-town) , [entitlement-town](https://github.com/entitlement-town)
 
 </div>
 
