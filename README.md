@@ -47,6 +47,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=E7D7B9&center=true&multiline=true&width=435&height=100&lines=put+your+hand+in+the+monkey+cage%E2%80%94;expect+to+get+bit%2C+son!)](https://git.io/typing-svg)
 
+<table>
+  <tr>
+    <td align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E1D1BC&center=true&multiline=true&repeat=false&width=435&height=40&lines=DO+NOT+TAKE+INSPIRATION%2FCOPY+MY+PONY+DESIGNS!!;SERIOUSLY+DONT!!+THANKS!!+%5E_%5E">
+
+   </td>
+  </tr>
+</table>
+
 <img width="2048" alt="Untitled111_20260924185238" src="https://github.com/user-attachments/assets/fb8e1c08-8ba0-4503-9e85-03d81b20495f" />
 
 <table>
